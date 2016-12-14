@@ -3,6 +3,9 @@
 In this project, you will redesign an app to follow the Material Design
 guidelines and translate a set of static design mocks to a living and breathing app.
 
+
+<img src="https://github.com/MohamedHashim/XYZ_Reader/blob/master/screenshot1.jpg" alt="Home Screen" width="40%"/> <img src="https://github.com/MohamedHashim/XYZ_Reader/blob/master/screenshot2.jpg" alt="Detail Screen" width="40%"/> 
+
 ##Why this Project
 
 This project gives you an opportunity to improve an app’s design, a vital 
