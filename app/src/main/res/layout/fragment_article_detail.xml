@@ -84,7 +84,8 @@
                 app:layout_anchorGravity="right|bottom|end"
                 app:fabSize="normal"
                 app:elevation="@dimen/fab_elevation"
-                app:pressedTranslationZ="@dimen/fab_press_translation_z"/>
+                app:pressedTranslationZ="@dimen/fab_press_translation_z"
+                android:stateListAnimator="@anim/fab_raise"/>
 
         </android.support.design.widget.CoordinatorLayout>
 
